@@ -60,6 +60,26 @@ Chapter 1
 
 Lesson #3: Basic scene [easy]
 """""""""""""""""""""""""""""
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/pen/PodmqJZ" target="_blank">
+      <img src="./images/03_basic_scene.png">
+    </a>
+    <p align="center">Camera moved on the z axis only</p>
+  </div>
+   
+|
+
+.. raw:: html
+
+   <div align="center">
+    <a href="https://codepen.io/raul23/pen/PodmqJZ" target="_blank">
+      <img src="./images/03_basic_scene_xz.png">
+    </a>
+    <p align="center">Camera moved on the x and z axis</p>
+  </div>
+
 `:information_source:` 
 
  - **Code:** 
