@@ -47,8 +47,8 @@ trainer, alternating theory and practice."
 - **Linkedin :** `@simonbruno77 <https://www.linkedin.com/in/simonbruno77/>`_
 - **Some of his projects:**
 
- - `bruno-simon.com (portfolio) <https://bruno-simon.com/>`_
- - `madbox.io <https://madbox.io/>`_
- - `chartogne-taillet.com (wine maker) <https://chartogne-taillet.com/en>`_
- - `fromscout.com <https://www.fromscout.com/>`_
+  - `bruno-simon.com (portfolio) <https://bruno-simon.com/>`_
+  - `madbox.io <https://madbox.io/>`_
+  - `chartogne-taillet.com (wine maker) <https://chartogne-taillet.com/en>`_
+  - `fromscout.com <https://www.fromscout.com/>`_
     
