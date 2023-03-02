@@ -66,7 +66,7 @@ Lesson #3: Basic scene [easy]
     <a href="https://codepen.io/raul23/pen/PodmqJZ" target="_blank">
       <img src="./images/03_basic_scene.png" width="528.5" height="423.5">
     </a>
-    <p align="center">Camera moved on the z axis only</p>
+    <p align="center">Camera moved on the z axis only (camera facing the cube -> only square is seen)</p>
   </div>
    
 |
