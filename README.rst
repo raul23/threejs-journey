@@ -66,7 +66,8 @@ Lesson #3: Basic scene [easy]
  
    - `codepen.io <https://codepen.io/raul23/pen/PodmqJZ>`_ (run the code directly from the browser)
    - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/03-basic-scene/exercise>`_ (source code)
- - Code from `The Best Way to Learn Three.js - 03. Basic scene (threejs-journey.com) <https://threejs-journey.com/lessons/basic-scene>`_
+ - **Reference:** code from `The Best Way to Learn Three.js - 03. Basic scene (threejs-journey.com) 
+   <https://threejs-journey.com/lessons/basic-scene>`_
  
 Lesson #5: Transform object [medium]
 """"""""""""""""""""""""""""""""""""
@@ -76,5 +77,6 @@ Lesson #5: Transform object [medium]
  
    - TODO
    - TODO
- - Code from `The Best Way to Learn Three.js - 05. Transform objects (threejs-journey.com) <https://threejs-journey.com/lessons/transform-objects>`_
+ - **Reference:** code from `The Best Way to Learn Three.js - 05. Transform objects (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/transform-objects>`_
  
