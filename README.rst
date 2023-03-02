@@ -10,6 +10,8 @@ Following the `three.js journey course <https://threejs-journey.com/>`_ given by
 
 Information about the course and teacher
 ========================================
+Course
+------
 - **Course link:** `threejs-journey.com <https://threejs-journey.com/>`_
 - **Course content:**
 
@@ -31,21 +33,22 @@ Information about the course and teacher
   - Code editor: He recommends Visual Studio Code but you can use any editor you like
   - Browser: He recommends Chrome and Firefox (for their good developer tools) but you can any browser you like
   - Blender: "Eventually, you will have to install Blender, but the software is free and works on all major OS"
-- **Teacher:** Bruno Simon
 
-   "Bruno Simon is a French creative developer specialized in WebGL. He has worked on many projects for renowned clients 
-   to create interactive 3D experiences accessible to everyone from their browser.
-   
-   Bruno has been teaching web development and WebGL in various schools for more than 7 years, making him a pedagogical 
-   trainer, alternating theory and practice."
-   
-  - **Twitter:** `@bruno_simon <https://twitter.com/bruno_simon>`_
-  - **GitHub :** `@brunosimon <https://github.com/brunosimon>`_
-  - **Linkedin :** `@simonbruno77 <https://www.linkedin.com/in/simonbruno77/>`_
-  - **Some of his projects:**
-  
-    - `bruno-simon.com (portfolio) <https://bruno-simon.com/>`_
-    - `madbox.io <https://madbox.io/>`_
-    - `chartogne-taillet.com (wine maker) <https://chartogne-taillet.com/en>`_
-    - `fromscout.com <https://www.fromscout.com/>`_
+Teacher: Bruno Simon
+--------------------
+"Bruno Simon is a French creative developer specialized in WebGL. He has worked on many projects for renowned clients 
+to create interactive 3D experiences accessible to everyone from their browser.
+
+Bruno has been teaching web development and WebGL in various schools for more than 7 years, making him a pedagogical 
+trainer, alternating theory and practice."
+
+- **Twitter:** `@bruno_simon <https://twitter.com/bruno_simon>`_
+- **GitHub :** `@brunosimon <https://github.com/brunosimon>`_
+- **Linkedin :** `@simonbruno77 <https://www.linkedin.com/in/simonbruno77/>`_
+- **Some of his projects:**
+
+ - `bruno-simon.com (portfolio) <https://bruno-simon.com/>`_
+ - `madbox.io <https://madbox.io/>`_
+ - `chartogne-taillet.com (wine maker) <https://chartogne-taillet.com/en>`_
+ - `fromscout.com <https://www.fromscout.com/>`_
     
