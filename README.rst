@@ -31,7 +31,7 @@ Course
 
   - JavaScript basics: like variables, objects, arrays, loops, functions, conditions and events
   - Code editor: He recommends Visual Studio Code but you can use any editor you like
-  - Browser: He recommends Chrome and Firefox (for their good developer tools) but you can any browser you like
+  - Browser: He recommends Chrome and Firefox (for their good developer tools) but you can use any browser you like
   - Blender: "Eventually, you will have to install Blender, but the software is free and works on all major OS"
 
 Teacher: Bruno Simon
