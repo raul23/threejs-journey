@@ -65,7 +65,7 @@ Lesson #3: Basic scene
  - **Code:** 
  
    - `codepen.io <https://codepen.io/raul23/pen/PodmqJZ>`_ (run the code directly from browser)
-   - Source code @ `github.com <https://github.com/raul23/threejs-journey/tree/main/code/03-basic-scene/exercise>`_
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/03-basic-scene/exercise>`_ (source code)
  - Code from `The Best Way to Learn Three.js (threejs-journey.com) <https://threejs-journey.com>`_
  
  
