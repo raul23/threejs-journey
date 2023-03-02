@@ -52,3 +52,11 @@ trainer, alternating theory and practice."
   - `chartogne-taillet.com <https://chartogne-taillet.com/en>`_ (wine maker)
   - `fromscout.com <https://www.fromscout.com/>`_
     
+Lessons
+=======
+Chapter 1
+---------
+`:information_source:` 14 lessons — 9h 59mn
+
+Lesson #3: Basic scene
+""""""""""""""""""""""
