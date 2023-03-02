@@ -58,14 +58,23 @@ Chapter 1
 ---------
 `:information_source:` 14 lessons — 9h 59mn
 
-Lesson #3: Basic scene
-""""""""""""""""""""""
+Lesson #3: Basic scene [easy]
+"""""""""""""""""""""""""""""
 `:information_source:` 
 
  - **Code:** 
  
    - `codepen.io <https://codepen.io/raul23/pen/PodmqJZ>`_ (run the code directly from the browser)
    - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/03-basic-scene/exercise>`_ (source code)
- - Code from `The Best Way to Learn Three.js (threejs-journey.com) <https://threejs-journey.com>`_
+ - Code from `The Best Way to Learn Three.js - 03. Basic scene (threejs-journey.com) <https://threejs-journey.com/lessons/basic-scene>`_
  
+Lesson #5: Transform object [medium]
+""""""""""""""""""""""""""""""""""""
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - TODO
+   - TODO
+ - Code from `The Best Way to Learn Three.js - 05. Transform objects (threejs-journey.com) <https://threejs-journey.com/lessons/transform-objects>`_
  
