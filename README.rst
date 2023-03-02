@@ -60,3 +60,9 @@ Chapter 1
 
 Lesson #3: Basic scene
 """"""""""""""""""""""
+`:information_source:` 
+
+ - **Code:** `codepen.io <https://codepen.io/raul23/pen/PodmqJZ>`_
+ - Code from `The Best Way to Learn Three.js (threejs-journey.com) <https://threejs-journey.com>`_
+ 
+ 
