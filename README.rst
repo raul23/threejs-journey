@@ -84,7 +84,7 @@ Lesson #3: Basic scene [easy]
 
  - **Code:** 
  
-   - `codepen.io <https://codepen.io/raul23/pen/PodmqJZ>`_ (run the code directly from the browser)
+   - `codepen.io <https://codepen.io/raul23/pen/PodmqJZ>`_ (run the code directly from the browser, commented code from the video lecture)
    - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/03-basic-scene/exercise>`_ (source code)
  - **Reference:** code from `03. Basic scene (threejs-journey.com) 
    <https://threejs-journey.com/lessons/basic-scene>`_
@@ -103,7 +103,7 @@ Lesson #5: Transform object [medium]
 
  - **Code:** 
  
-   - `codepen.io <https://codepen.io/raul23/pen/BaORKKo>`_ (run the code directly from the browser)
+   - `codepen.io <https://codepen.io/raul23/pen/BaORKKo>`_ (run the code directly from the browser, commented code from the video lecture)
    - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/05-transforms-objects/exercise>`_ (source code)
  - **Reference:** code from `05. Transform objects (threejs-journey.com) \
    <https://threejs-journey.com/lessons/transform-objects>`_
