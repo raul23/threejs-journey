@@ -111,6 +111,7 @@ Lesson #5: Transform object [medium]
 Lesson #6: Animations [medium]
 """"""""""""""""""""""""""""""
 Animations can be done based on:
+
 - ``Date.now()`` and computing ``deltaTime``
 - ``THREE.Clock`` and ``THREE.Clock.getElapsedTime()``
 - GSAP: "JavaScript library for building high-performance animations that work in **every** major browser"
