@@ -91,12 +91,20 @@ Lesson #3: Basic scene [easy]
  
 Lesson #5: Transform object [medium]
 """"""""""""""""""""""""""""""""""""
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/BaORKKo" target="_blank">
+      <img src="./images/05_transforms_objects.png">
+    </a>
+  </p>
+  
 `:information_source:` 
 
  - **Code:** 
  
-   - TODO
-   - TODO
+   - `codepen.io <https://codepen.io/raul23/pen/BaORKKo>`_ (run the code directly from the browser)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/05-transforms-objects/exercise>`_ (source code)
  - **Reference:** code from `05. Transform objects (threejs-journey.com) \
    <https://threejs-journey.com/lessons/transform-objects>`_
  
