@@ -118,9 +118,61 @@ Animations can be done based on:
 
 Solution #1: animations based on ``Date.now()``
 '''''''''''''''''''''''''''''''''''''''''''''''
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/jOvmrJJ" target="_blank">
+      <img src="./images/06_animations_solution_01.png">
+    </a>
+  </p>
+
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - `codepen.io <https://codepen.io/raul23/pen/jOvmrJJ>`_ (run the code directly from the browser, commented code from the video lecture)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/06-animations/exercise/solution_01>`_ (source code)
+ - **Reference:** code from `06. Animations (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/animations>`_
 
 Solution #2: animations based on ``THREE.Clock``
 ''''''''''''''''''''''''''''''''''''''''''''''''
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/LYJybEg" target="_blank">
+      <img src="./images/06_animations_solution_02.png">
+    </a>
+  </p>
+  
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - `codepen.io <https://codepen.io/raul23/pen/LYJybEg>`_ (run the code directly from the browser, commented code from the video lecture)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/06-animations/exercise/solution_02>`_ (source code)
+ - **Reference:** code from `06. Animations (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/animations>`_
 
 Solution #3: animations based on GSAP (JavaScript library)
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/wvEdoBa" target="_blank">
+      <img src="./images/06_animations_solution_03.png">
+    </a>
+  </p>
+
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - `codepen.io <https://codepen.io/raul23/pen/wvEdoBa>`_ (run the code directly from the browser, commented code from the video lecture)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/06-animations/exercise/solution_03>`_ (source code)
+ - **Reference:** code from `06. Animations (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/animations>`_
+   
+Lesson #7: Cameras [medium]
+"""""""""""""""""""""""""""
+TODO
