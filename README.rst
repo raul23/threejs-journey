@@ -107,4 +107,7 @@ Lesson #5: Transform object [medium]
    - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/05-transforms-objects/exercise>`_ (source code)
  - **Reference:** code from `05. Transform objects (threejs-journey.com) \
    <https://threejs-journey.com/lessons/transform-objects>`_
- 
+  
+Lesson #6: Animations [medium]
+""""""""""""""""""""""""""""""
+TODO
