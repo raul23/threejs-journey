@@ -175,13 +175,13 @@ Solution #3: animations based on GSAP (JavaScript library)
    
 Lesson #7: Cameras [medium]
 """""""""""""""""""""""""""
-Built-in controls
-'''''''''''''''''
+Custom controls
+'''''''''''''''
 Solution #1: camera moving in a plane
 ||||||||||||||||||||||||||||||||||||||
 
 Solution #2: camera rotating around the cube
 ||||||||||||||||||||||||||||||||||||||||||||
 
-Custom controls: ``OrbitControls``
-''''''''''''''''''''''''''''''''''
+Built-in controls: ``OrbitControls``
+''''''''''''''''''''''''''''''''''''
