@@ -179,9 +179,58 @@ Custom controls
 '''''''''''''''
 Solution #1: camera moving in a plane
 ||||||||||||||||||||||||||||||||||||||
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/OJombjM" target="_blank">
+      <img src="./images/07_cameras_solution_01.png">
+    </a>
+  </p>
+
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - `codepen.io <https://codepen.io/raul23/pen/OJombjM>`_ (run the code directly from the browser, commented code from the video lecture)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/07-cameras/exercise/custom-controls/solution_01>`_ (source code)
+ - **Reference:** code from `07. Cameras (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/cameras>`_
 
 Solution #2: camera rotating around the cube
 ||||||||||||||||||||||||||||||||||||||||||||
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/rNZmEpb" target="_blank">
+      <img src="./images/07_cameras_solution_02.png">
+    </a>
+  </p>
+
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - `codepen.io <https://codepen.io/raul23/pen/rNZmEpb>`_ (run the code directly from the browser, commented code from the video lecture)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/07-cameras/exercise/custom-controls/solution_02>`_ (source code)
+ - **Reference:** code from `07. Cameras (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/cameras>`_
 
 Built-in controls: ``OrbitControls``
 ''''''''''''''''''''''''''''''''''''
+.. raw:: html
+
+  <p align="center">
+    <a href="https://codepen.io/raul23/pen/rNZmEpb" target="_blank">
+      <img src="./images/07_cameras_OrbitControls.png">
+    </a>
+  </p>
+
+`:information_source:` 
+
+ - **Code:** 
+ 
+   - `codepen.io <https://codepen.io/raul23/pen/rNZmEpb>`_ (run the code directly from the browser, commented code from the video lecture)
+   - `github.com <https://github.com/raul23/threejs-journey/tree/main/code/07-cameras/exercise/built-in-controls>`_ (source code)
+ - **Reference:** code from `07. Cameras (threejs-journey.com) \
+   <https://threejs-journey.com/lessons/cameras>`_
+   
