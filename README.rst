@@ -234,3 +234,6 @@ Built-in controls: ``OrbitControls``
  - **Reference:** code from `07. Cameras (threejs-journey.com) \
    <https://threejs-journey.com/lessons/cameras>`_
    
+Lesson #8: Fullscreen and resizing [medium]
+"""""""""""""""""""""""""""""""""""""""""""
+TODO
